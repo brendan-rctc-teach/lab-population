@@ -104,18 +104,8 @@ End size: 1000000
 Years: 115
 
 ```
-
-Not sure how to solve?
-
-Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
-
-```
-check50 cs50/labs/2023/x/population
-
-```
-
-Execute the below to evaluate the style of your code using `style50`.
-
-```
-style50 population.c
-```
+## How to Submit Your Work for Autograding
+1. On the far left of VS code click on the icon for "source control".
+2. Type a description of what you've done so far and click "commit."
+3. Now, wait until the commmit finishes and push "sync".
+4. The autograder is now running. In less than 10 minutes (and often much sooner than that), you'll be able to see the results by going to the "repository" and clicking on "actions."
